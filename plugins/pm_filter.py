@@ -109,7 +109,7 @@ async def next_page(bot, query):
 
     btn.insert(0,
         [
-            InlineKeyboardButton("ɢʀᴏᴜᴩ", url="https://t.me/+3UF-fQmJItg0Nzk1"),
+            InlineKeyboardButton("ɢʀᴏᴜᴩ", url="https://t.me/+WLcUmDKa_n5jOTM1"),
             InlineKeyboardButton("ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ", url="https://t.me/MS_LinkZzz"),
             InlineKeyboardButton("ꜰɪʟᴇ ᴄʜᴀɴɴᴇʟ", url="https://t.me/New_Movies_Hd_M")
         ]
@@ -444,7 +444,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         buttons = [[
             InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴩꜱ', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
-            InlineKeyboardButton('ɢʀᴏᴜᴩ', url='https://t.me/+3UF-fQmJItg0Nzk1'),
+            InlineKeyboardButton('ɢʀᴏᴜᴩ', url='https://t.me/+WLcUmDKa_n5jOTM1'),
             InlineKeyboardButton('ᴜᴩᴅᴀᴛᴇꜱ', url='https://t.me/MS_LinkZzz')
         ], [
             InlineKeyboardButton('ʜᴇʟᴩ', callback_data='help'),
