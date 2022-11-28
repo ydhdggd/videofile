@@ -2,7 +2,7 @@
   <img src="https://telegra.ph/file/974f52a0f64c8bb0b0c0c.jpg" alt="Eva Maria Logo">
 </p>
 <h1 align="center">
-  <b>TechMagazine AutoFilter Bot</b>
+  <b>@MS_LinkZzz Auto Filter Bot</b>
 </h1>
 
 
