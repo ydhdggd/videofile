@@ -47,7 +47,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴩꜱ', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('ɢʀᴏᴜᴩ', url='https://t.me/+3UF-fQmJItg0Nzk1'),
+            InlineKeyboardButton('ɢʀᴏᴜᴩ', url='https://t.me/+WLcUmDKa_n5jOTM1'),
             InlineKeyboardButton('ᴜᴩᴅᴀᴛᴇꜱ', url='https://t.me/MS_LinkZzz')
             ],[
             InlineKeyboardButton('ʜᴇʟᴩ', callback_data='help'),
@@ -95,7 +95,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴩꜱ', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('ɢʀᴏᴜᴩ', url='https://t.me/+3UF-fQmJItg0Nzk1'),
+            InlineKeyboardButton('ɢʀᴏᴜᴩ', url='https://t.me/+WLcUmDKa_n5jOTM1'),
             InlineKeyboardButton('ᴜᴩᴅᴀᴛᴇꜱ', url='https://t.me/MS_LinkZzz')
             ],[
             InlineKeyboardButton('ʜᴇʟᴩ', callback_data='help'),
