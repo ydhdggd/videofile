@@ -1,4 +1,4 @@
-#### This Code Was Devloped By @MS_LinkZzz ####
+#### This Code Was Devloped By @AM_ROBOTS ####
 
 import re
 from os import environ
@@ -19,27 +19,28 @@ class script(object):
 ʜᴇʀᴇ ɪꜱ ᴍʏ ᴄᴏᴍᴍᴀɴᴅꜱ."""
     ABOUT_TXT = """𝗔𝗕𝗢𝗨𝗧 𝗠𝗦𝗚
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
-╔════❰ MS ❱═❍⊱❁۪۪
+╔════❰ ꫝꪖ𝘳𝓲 ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣ 
-║┣⪼ 𝓜𝔂 𝓝𝓪𝓶𝓮 - MS
+║┣⪼ 𝓜𝔂 𝓝𝓪𝓶𝓮 - 𝙷𝙰𝚁𝙸
 ║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ║┣⪼ 𝓓𝓪𝓽𝓪 𝓑𝓪𝓼𝓮 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-║┣⪼ 𝓑𝓸𝓽 𝓼𝓮𝓻𝓿𝓮𝓻 -  KOYEB
+║┣⪼ 𝓑𝓸𝓽 𝓼𝓮𝓻𝓿𝓮𝓻 -  𝙷𝙴𝚁𝙾𝙺𝚄
 ║┣⪼ 𝓑𝓾𝓲𝓵𝓭 𝓢𝓽𝓪𝓽𝓾𝓼 - v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
 ║╰━━━━━━━━━━━━━━━➣
 ╚══════════════════❍⊱❁"""
     SOURCE_TXT = """𝐇𝐄𝐘 𝐁𝐑𝐔𝐇
 ✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
-╔════❰ MS ❱═❍⊱❁۪۪
+╔════❰ ᦔ𝘳ꪖᧁꪮꪀ ❱═❍⊱❁۪۪
 ║╭━━━━━━━━━━━━━━━➣
 ║┣🎯✨ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ꜰʟɪᴍꜱ ʜᴅ ᴏꜰꜰɪᴄɪᴀʟ❣
 ║┣⚡️🍬ᴊᴏɪɴ ᴏᴜʀ ᴍᴏᴠɪᴇꜱ ᴄʜᴀɴɴᴇʟꜱ 🦋✨
-║|
-║┣<a href=https://t.me/MS_LinkZzz>🔰✥ ▷MAIN CHANNEL◁</a>
-║┣<a href=https://t.me/+WLcUmDKa_n5jOTM1>🔰▷Mᴏᴠɪᴇ Rᴇqᴜᴇꜱᴛ 24×7◁</a>
-║┣<a href=https://t.me/+x_lkNAFllwozNWY1>🔰✥ ▷彡[ɴᴇᴡ ᴍᴏᴠɪᴇꜱ ʜᴅ]彡◁</a>
-║┣<a href=https://t.me/MS_LinkZzz>🔰✥ ▷BOT REPO◁</a>
+║┣
+║┣<a href=https://t.me/TAMIL_FLIMS_HD>🔰✥ ▷ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ◁</a>
+║┣<a href=https://t.me/+lp5mOR6wSMIyMzY1>🔰✥ ▷ ꜰʟɪᴍꜱ ʜᴅ ᴏꜰꜰɪᴄɪᴀʟ ꜰɪʟᴇ 1 ◁</a>
+║┣<a href=https://t.me/+VyuE_q8JC9UzZTll>🔰✥ ▷ ꜰʟɪᴍꜱ ʜᴅ ᴏꜰꜰɪᴄɪᴀʟ ꜰɪʟᴇ 2 ◁</a>
+║┣<a href=https://t.me/+TJzbQrEhZBg3ZGRl>🔰✥ ▷ ꜰʟɪᴍꜱ ʜᴅ ᴏꜰꜰɪᴄɪᴀʟ ꜰɪʟᴇ 3 ◁</a>
+║┣
 ║┣🦋 ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ :<a href=tg://settings>ᴛʜɪs ᴘᴇʀsᴏɴ 🙌</a>
 ║╰━━━━━━━━━━━━━━━➣
 ╚══════════════════❍⊱❁"""
@@ -63,11 +64,11 @@ class script(object):
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. MS_LinkZzz supports buttons with any telegram media type.
+2. ᠻꪶ𝓲ꪑ𝘴 supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/MS_LinkZzz)</code>
+<code>[Button Text](buttonurl:https://t.me/TAMIL_FLIMS_HD)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -94,7 +95,7 @@ class script(object):
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of MS_LinkZzz
+these are the extra features of ᠻꪶ𝓲ꪑ𝘴
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
