@@ -69,7 +69,7 @@ LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
       # URL Shortener #
 
 URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'tnlink.in')
-URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '4df33cf5773952f00f9c964d7bb3c5031f5c35a7')
+URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', 'ec72f63f7a24370058610e02813fff3ec317f4c0')
 
      # Auto Delete For Group Message (Self Delete) #
 SELF_DELETE_SECONDS = int(environ.get('SELF_DELETE_SECONDS', 200))
@@ -79,10 +79,10 @@ if SELF_DELETE == "True":
 
     # Download Tutorial Button #
 DOWNLOAD_TEXT_NAME = "ʜᴏᴡ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ"
-DOWNLOAD_TEXT_URL = "https://t.me/MS_LinkZzz/3"
+DOWNLOAD_TEXT_URL = "https://t.me/TAMIL_FLIMS_HD/110"
 
    # Custom Caption Under Button #
 CAPTION_BUTTON = "ᴄʜᴀɴɴᴇʟ"
-CAPTION_BUTTON_URL = "https://t.me/MS_LinkZzz"
+CAPTION_BUTTON_URL = "https://t.me/TAMIL_FLIMS_HD"
 
    # Auto Delete For Bot Sending Files #
